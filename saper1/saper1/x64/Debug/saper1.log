@@ -1,0 +1,3 @@
+﻿  saper1.cpp
+D:\Study\saper1\saper1\saper1.cpp(275,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  saper1.vcxproj -> D:\Study\saper1\x64\Debug\saper1.exe
